@@ -134,33 +134,6 @@ This project focuses on classifying emotional states from EEG signals using mach
 * Managed IEEE formatting and structured reporting
 * Contributed to PPT and comparative analysis write-up
 
----
 
-## 📦 Repository Structure
-
-```
-├── emotions/
-│   └── emotions.csv
-├── models/
-│   ├── rf_model.ipynb
-│   └── xgb_model.ipynb
-├── results/
-│   ├── confusion_matrix.png
-│   ├── feature_importance_rf.png
-│   └── feature_importance_xgb.png
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🛠️ Installation & Usage
-
-```bash
-git clone <your-repo-link>
-cd EEG-Emotion-Classification
-pip install -r requirements.txt
-python main.py
-```
 
 
